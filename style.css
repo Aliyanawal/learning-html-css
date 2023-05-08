@@ -1,0 +1,35 @@
+body{
+    margin: auto;
+    font-weight: 500;
+    font-size: 100%;
+    line-height: 1.5;
+    font-family: Metropolis,Helvetica,Arial,sans-serif;
+    
+}
+h1{
+    font-size: 60px;
+     }
+.first-pgf {
+    background-color: black;
+    color: aliceblue;
+    background-image: url("./moon.jpeg");
+    width: fit-content;
+    height: fit-content;
+    padding: 20px;
+    background-position: center;
+    background-size: cover;
+    font-weight: 700;
+}
+.lunar{
+    width: 500px;
+    height: 100px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.third-section{
+    padding: 40px;
+}
+
+
